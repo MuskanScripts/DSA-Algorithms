@@ -93,7 +93,7 @@ This repository covers a wide range of algorithms from basic to advanced, helpin
 
 ## 🛠️ Tech Stack
 
-* Language: Python
+* Language:Java, Python, JavaScript, TypeScript
 * Tools: Git, GitHub
 
 ---
